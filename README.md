@@ -1,39 +1,33 @@
-# Humanficial Code™
-
+# Humanficial Code™  
 **The Linguistic Operating System of the Evolving-Intelligence Age**
-
-Welcome to the official repository of the Humanficial Code™ — a future-proof naming and language architecture powering the Humanficial Design™ ecosystem.
-
-This repo serves as the **source of truth** for:
-- Naming syntax rules
-- Linguistic standards
-- Meta-language architecture
-- System object labels
-- AI-facing vocabularies
-- DLE logs + naming experiments
-
-## 🌍 Purpose
-Humanficial Code™ is more than a glossary — it’s a language layer for infrastructure. Every term is directive, memory-encoded, and structurally intentional. We’re building the DNA of systems that think, feel, and evolve with their creators.
-
-## 📂 Folder Structure
-- `docs/` — Canonical language files, structured by version (e.g., `DLE-001-humanficial-code-v1.md`)
-- `experiments/` — Live naming experiments and exploratory syntax tests
-- `meta/` — Strategy files, evolution logs, and internal notes
-- `glossary/` — Structured definitions by concept, system, and activation state
-
-## 📜 Versioning
-Every language release will follow this pattern:
-- `DLE-###` — DLE-logged experiment number
-- `humanficial-code-vX.md` — Major version tag
-- e.g., `DLE-001-humanficial-code-v1.md`
-
-## 🧠 Learn More
-- Humanficial Design™ → A design philosophy for building conscious, intelligent systems
-- Humanfish™ → The behavioral engine of the Humanficial Intelligence Operating System (HIOS)
 
 ---
 
-© 2025 Humanficial Institute™ — All Rights Reserved
+## 📜 Overview
 
-# humanficial-code
-The canonical source of truth for Humanficial’s language, naming, and design communication systems.
+This is the official repository of the Humanficial Code™ — a future-proof language system powering the Humanficial Design™ ecosystem.
+
+**Humanficial Code™** is not a glossary. It is a design standard, a narrative system, and a memory-preserving language architecture engineered to:
+- Scale trust digitally
+- Encode institutional memory
+- Anchor identity
+- Architect intelligent, equity-aligned systems
+
+---
+
+## 🧱 Repo Structure
+
+| Folder | Purpose |
+|--------|---------|
+| `/changelog/` | Versioned language releases (e.g. `v1`, `v2`) |
+| `/syntax/` | Naming conventions, syntax rules, linguistic patterns |
+| `/taxonomy/` | Term definitions, structural language map |
+| `/docs/` | Language architecture overviews |
+| `/archives/` | Legacy DLE logs and naming experiments |
+| `/system/` + `/roles/` | COS logic, tier logic, system labels |
+
+---
+
+## 🌍 Purpose
+
+This system exists to **future-proof the language of intelligent entrepreneurship** — enabling businesses to speak, evolve, and scale with intention across time, trust, and technology.
