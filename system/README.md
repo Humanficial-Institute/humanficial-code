@@ -1,2 +1,3 @@
-# system/
-System-level documentation for how Humanficial Code™ functions inside infrastructure: formatting logic, naming hierarchies, interaction design, and internal signal routing.
+# System Directory
+
+Governs the internal operations, rules, and principles of Humanficial Code™.
