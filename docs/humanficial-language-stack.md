@@ -1,5 +1,6 @@
+--
 Humanficial Language Stack – Ecosystem vs Economy
-
+--
 This document clarifies the layered language architecture used to describe the Humanficial Universe. It supports the ontological repositioning of WBW as Time Architect, and encodes a sustainable, defensible naming system across the infrastructure.
 
 ⸻
